@@ -599,7 +599,7 @@ let Packages = () => {
                         </div>
                     </div>
                 </div>
-                <div hidden id={'btns'}>
+                <div id={'btns'}>
                     <div
                         onClick={() => {
                             window.scrollTo(0, 0)
